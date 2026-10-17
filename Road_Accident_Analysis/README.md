@@ -71,3 +71,7 @@ Developed an interactive Power BI dashboard to analyze accident and casualty pat
 
 ## Interview Introduction
 “I built a Power BI dashboard to explore road accident and casualty data from multiple perspectives. It includes KPI cards, a year-over-year monthly trend, vehicle and road-type breakdowns, urban/rural and light-condition comparisons, weather and road-surface filters, and a geographic map. I used Power Query to prepare the data and DAX measures to calculate key indicators and compare yearly trends. The goal is to make patterns easier to explore interactively and support data-driven investigation.”
+
+Final Dashboard : 
+<img width="1341" height="754" alt="image" src="https://github.com/user-attachments/assets/9634df86-5fff-41a2-9343-e03120743482" />
+
